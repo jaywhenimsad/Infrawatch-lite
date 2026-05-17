@@ -198,3 +198,19 @@ Jaykumar Rangari
 - AWS Certified Solutions Architect Associate
 
    
+## Dashboard Screenshot
+
+![Dashboard](screenshots/dashboard.png)
+
+
+## Utilization
+
+![Utilization](screenshots/utilization.png)
+
+## Alerts and Incident Screenshot
+
+![Alerts And Incident](screenshots/alerts_and_incident.png)
+
+## System Logs
+
+![System Logs](screenshots/system_logs.png)
